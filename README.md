@@ -1,2 +1,2 @@
-# Iris-Species-Prediction-using-Logistics
+# Iris-Species-Prediction
 Used Scaling, Confusion Matrix, Classification Report
